@@ -1,0 +1,2 @@
+docker run -v C:\_iGDDrive\_iTraining\DockerVolumeData:/var/jenkins_home -p 8080:8080 -p 50000:50000 jenkins/jenkins:lts
+
